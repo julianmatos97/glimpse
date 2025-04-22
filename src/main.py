@@ -30,9 +30,8 @@ if not DATABASE_URL:
     raise RuntimeError("DATABASE_URL environment variable not set.")
 
 # JWT Configuration
-SECRET_KEY = os.getenv("SECRET_KEY", "your-secret-key-for-jwt-tokens")
-if SECRET_KEY == "your-secret-key-for-jwt-tokens":
-    logger.warning("Using default SECRET_KEY. This is insecure for production environments.")
+SECRET_KEY = os.getenv("SECRET_KEY", "glimpse-key-for-jwt-tokens")
+
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
@@ -54,7 +53,7 @@ app = FastAPI(
 )
 logger.info("FastAPI application initialized")
 
-# Pydantic Schemas for request/response validation and documentation
+# Request/Response Schemas
 class LeadBase(BaseModel):
     name: str
     contact_information: str
@@ -67,7 +66,7 @@ class LeadRead(LeadBase):
     id: int
 
     class Config:
-        orm_mode = True # Use orm_mode for compatibility with SQLAlchemy models
+        orm_mode = True 
 
 class LoadResult(BaseModel):
     filename: str
@@ -81,8 +80,6 @@ class LoadResult(BaseModel):
 class UserBase(BaseModel):
     email: EmailStr
 
-class UserCreate(UserBase):
-    password: str
 
 class UserInDB(UserBase):
     hashed_password: str
@@ -96,10 +93,8 @@ class Token(BaseModel):
     access_token: str
     token_type: str
     
-class TokenData(BaseModel):
-    email: Optional[str] = None
 
-# Dependency for getting DB session
+
 def get_db() -> Generator[Session, None, None]:
     db = SessionLocal()
     logger.debug("Database session created")
@@ -145,10 +140,8 @@ def verify_token(token: str):
         return None
 
 # User authentication functions
-# This is a mock function - in a real app, you would query the database
 def get_user(email: str) -> Optional[UserInDB]:
     logger.debug(f"Looking up user: {email}")
-    # Mock user for demonstration - replace with database lookup in production
     if email == "admin@example.com":
         logger.debug(f"User found: {email}")
         return UserInDB(
@@ -276,9 +269,8 @@ async def load_data_file(
     duplicates_found = 0
 
     try:
-        # Adjust column names to match the CSV file exactly
         logger.debug("Reading CSV file")
-        df = pandas.read_csv(file_stream, dtype=str).fillna('') # Read all as string initially, handle NaNs
+        df = pandas.read_csv(file_stream, dtype=str).fillna('') 
         rows_processed = len(df)
         logger.info(f"CSV file contains {rows_processed} rows")
 
@@ -288,11 +280,9 @@ async def load_data_file(
             logger.error(f"CSV missing required columns: {missing}")
             raise HTTPException(status_code=400, detail=f"Missing required columns in CSV: {', '.join(missing)}")
         
-        # Extract unique salesperson names from the CSV
         unique_salespersons = df['Assigned Salesperson'].unique()
         logger.info(f"Found {len(unique_salespersons)} unique salespersons in CSV")
         
-        # Map salesperson names to IDs
         salesperson_map = {}
         
         # Check which salespersons already exist in the database
@@ -309,10 +299,10 @@ async def load_data_file(
                 # Create new salesperson with a temporary password (should be changed later)
                 new_salesperson = SalesPerson(
                     name=salesperson_name,
-                    hashed_password="temporary_hash"  # In production, use proper password hashing
+                    hashed_password="temporary_hash" 
                 )
                 db.add(new_salesperson)
-                db.flush()  # Flush to get ID without committing
+                db.flush() 
                 salesperson_map[salesperson_name] = new_salesperson.id
                 logger.info(f"Created new salesperson: {salesperson_name}")
 
@@ -330,14 +320,13 @@ async def load_data_file(
                 lead_data = {
                     "name": row['Lead Name'],
                     "contact_information": contact_info,
-                    "source": Source(row['Source']),  # Convert string to Enum
-                    "interest": Interest(row['Interest Level']),  # Convert string to Enum
-                    "status": Status(row['Status']),  # Convert string to Enum
+                    "source": Source(row['Source']),    
+                    "interest": Interest(row['Interest Level']),  
+                    "status": Status(row['Status']),  
                     "assigned_salesperson_name": salesperson_name,
                     "salesperson_id": salesperson_id
                 }
                 
-                # Basic validation example (can be expanded)
                 if not lead_data["name"] or not lead_data["contact_information"]:
                     error_msg = f"Row {index + 2}: Missing required field (Name or Contact Info)."
                     logger.warning(error_msg)
@@ -347,11 +336,9 @@ async def load_data_file(
                 # Check if this contact already exists
                 if contact_info in existing_contacts:
                     duplicates_found += 1
-                    # Get the existing lead to update
                     existing_lead = db.query(Lead).filter(Lead.contact_information == contact_info).first()
                     if existing_lead:
-                        # Update the existing lead with new information
-                        lead_data["id"] = existing_lead.id  # Include ID for the update
+                        lead_data["id"] = existing_lead.id  
                         leads_to_update.append(lead_data)
                 else:
                     leads_to_insert.append(lead_data)
