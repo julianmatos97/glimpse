@@ -200,7 +200,6 @@ def get_leads(
     offset: int = Query(0, ge=0, description="Offset for pagination"),
     limit: int = Query(100, ge=1, le=100, description="Limit for pagination"),
     db: Session = Depends(get_db),
-    current_user: UserInDB = Depends(get_current_user)
 ):
     """
     Retrieve a list of leads with optional filtering and pagination.
