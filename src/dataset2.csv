@@ -1,0 +1,101 @@
+Lead ID,Lead Name,Contact Information,Source,Interest Level,Status,Assigned Salesperson
+1101,James Peterson,james.peterson@example.com,Website,High,New,Emily
+1102,Sarah Johnson,sarah.johnson@example.com,Referral,Medium,Contacted,Frank
+1103,Robert Williams,robert.williams@example.com,Cold Call,Low,Qualified,Grace
+1104,Elizabeth Taylor,elizabeth.taylor@example.com,Event,High,Closed,Henry
+1105,Michael Brown,michael.brown@example.com,Website,Medium,New,Emily
+1106,Patricia Davis,patricia.davis@example.com,Cold Call,High,Contacted,Frank
+1107,David Miller,david.miller@example.com,Referral,Low,New,Grace
+1108,Jennifer Wilson,jennifer.wilson@example.com,Event,Medium,Qualified,Henry
+1109,William Moore,william.moore@example.com,Cold Call,High,Closed,Emily
+1110,Linda Anderson,linda.anderson@example.com,Website,Low,New,Frank
+1111,Richard Jackson,richard.jackson@example.com,Referral,Medium,Contacted,Grace
+1112,Barbara Thomas,barbara.thomas@example.com,Event,High,Qualified,Henry
+1113,Joseph White,joseph.white@example.com,Cold Call,Low,Closed,Emily
+1114,Susan Harris,susan.harris@example.com,Website,Medium,New,Frank
+1115,Charles Martin,charles.martin@example.com,Referral,High,Contacted,Grace
+1116,Jessica Thompson,jessica.thompson@example.com,Event,Low,Qualified,Henry
+1117,Thomas Robinson,thomas.robinson@example.com,Cold Call,Medium,Closed,Emily
+1118,Margaret Clark,margaret.clark@example.com,Website,High,New,Frank
+1119,Christopher Lewis,christopher.lewis@example.com,Referral,Low,Contacted,Grace
+1120,Karen Lee,karen.lee@example.com,Cold Call,Medium,Qualified,Henry
+1121,Daniel Walker,daniel.walker@example.com,Event,High,Closed,Emily
+1122,Nancy Hall,nancy.hall@example.com,Website,Low,New,Frank
+1123,Matthew Allen,matthew.allen@example.com,Referral,Medium,Contacted,Grace
+1124,Sandra Young,sandra.young@example.com,Cold Call,High,Qualified,Henry
+1125,Anthony King,anthony.king@example.com,Event,Low,Closed,Emily
+1126,Donna Wright,donna.wright@example.com,Website,Medium,New,Frank
+1127,Mark Scott,mark.scott@example.com,Referral,High,Contacted,Grace
+1128,Dorothy Green,dorothy.green@example.com,Cold Call,Low,Qualified,Henry
+1129,Steven Baker,steven.baker@example.com,Event,Medium,Closed,Emily
+1130,Carol Adams,carol.adams@example.com,Website,High,New,Frank
+1131,Kevin Nelson,kevin.nelson@example.com,Referral,Low,Contacted,Grace
+1132,Amanda Hill,amanda.hill@example.com,Cold Call,Medium,Qualified,Henry
+1133,Brian Mitchell,brian.mitchell@example.com,Event,High,Closed,Emily
+1134,Michelle Roberts,michelle.roberts@example.com,Website,Low,New,Frank
+1135,Edward Phillips,edward.phillips@example.com,Referral,Medium,Contacted,Grace
+1136,Laura Campbell,laura.campbell@example.com,Cold Call,High,Qualified,Henry
+1137,Ronald Parker,ronald.parker@example.com,Event,Low,Closed,Emily
+1138,Sharon Evans,sharon.evans@example.com,Website,Medium,New,Frank
+1139,Larry Turner,larry.turner@example.com,Referral,High,Contacted,Grace
+1140,Lisa Collins,lisa.collins@example.com,Cold Call,Low,Qualified,Henry
+1141,Kenneth Morris,kenneth.morris@example.com,Event,Medium,Closed,Emily
+1142,Helen Morgan,helen.morgan@example.com,Website,High,New,Frank
+1143,Paul Murphy,paul.murphy@example.com,Referral,Low,Contacted,Grace
+1144,Deborah Rogers,deborah.rogers@example.com,Cold Call,Medium,Qualified,Henry
+1145,George Cooper,george.cooper@example.com,Event,High,Closed,Emily
+1146,Carol Reed,carol.reed@example.com,Website,Low,New,Frank
+1147,Jerry Bailey,jerry.bailey@example.com,Referral,Medium,Contacted,Grace
+1148,Ruth Bell,ruth.bell@example.com,Cold Call,High,Qualified,Henry
+1149,Gerald Murphy,gerald.murphy@example.com,Event,Low,Closed,Emily
+1150,Teresa Howard,teresa.howard@example.com,Website,Medium,New,Frank
+1151,Harold Ward,harold.ward@example.com,Referral,High,Contacted,Grace
+1152,Virginia Cox,virginia.cox@example.com,Cold Call,Low,Qualified,Henry
+1153,Jeremy Richardson,jeremy.richardson@example.com,Event,Medium,Closed,Emily
+1154,Judith Brooks,judith.brooks@example.com,Website,High,New,Frank
+1155,Gregory Diaz,gregory.diaz@example.com,Referral,Low,Contacted,Grace
+1156,Olivia Myers,olivia.myers@example.com,Cold Call,Medium,Qualified,Henry
+1157,Dennis James,dennis.james@example.com,Event,High,Closed,Emily
+1158,Megan Watson,megan.watson@example.com,Website,Low,New,Frank
+1159,Frank Price,frank.price@example.com,Referral,Medium,Contacted,Grace
+1160,Joyce Bennett,joyce.bennett@example.com,Cold Call,High,Qualified,Henry
+1161,Tony Wood,tony.wood@example.com,Event,Low,Closed,Emily
+1162,Heather Barnes,heather.barnes@example.com,Website,Medium,New,Frank
+1163,Wayne Ross,wayne.ross@example.com,Referral,High,Contacted,Grace
+1164,Julia Henderson,julia.henderson@example.com,Cold Call,Low,Qualified,Henry
+1165,Johnny Coleman,johnny.coleman@example.com,Event,Medium,Closed,Emily
+1166,Louise Jenkins,louise.jenkins@example.com,Website,High,New,Frank
+1167,Alan Perry,alan.perry@example.com,Referral,Low,Contacted,Grace
+1168,Sara Powell,sara.powell@example.com,Cold Call,Medium,Qualified,Henry
+1169,Brandon Simmons,brandon.simmons@example.com,Event,High,Closed,Emily
+1170,Ann Butler,ann.butler@example.com,Website,Low,New,Frank
+1171,Gary Foster,gary.foster@example.com,Referral,Medium,Contacted,Grace
+1172,Julie Gonzalez,julie.gonzalez@example.com,Cold Call,High,Qualified,Henry
+1173,Arthur Bryant,arthur.bryant@example.com,Event,Low,Closed,Emily
+1174,Lori Alexander,lori.alexander@example.com,Website,Medium,New,Frank
+1175,Eugene Russell,eugene.russell@example.com,Referral,High,Contacted,Grace
+1176,Brenda Griffin,brenda.griffin@example.com,Cold Call,Low,Qualified,Henry
+1177,Roger Harrison,roger.harrison@example.com,Event,Medium,Closed,Emily
+1178,Kathryn Ford,kathryn.ford@example.com,Website,High,New,Frank
+1179,Victor Hawkins,victor.hawkins@example.com,Referral,Low,Contacted,Grace
+1180,Beverly Hayes,beverly.hayes@example.com,Cold Call,Medium,Qualified,Henry
+1181,Lawrence Gibson,lawrence.gibson@example.com,Event,High,Closed,Emily
+1182,Melissa Ellis,melissa.ellis@example.com,Website,Low,New,Frank
+1183,Stephen Dixon,stephen.dixon@example.com,Referral,Medium,Contacted,Grace
+1184,Cynthia Burns,cynthia.burns@example.com,Cold Call,High,Qualified,Henry
+1185,Frederick Gordon,frederick.gordon@example.com,Event,Low,Closed,Emily
+1186,Janet Hunter,janet.hunter@example.com,Website,Medium,New,Frank
+1187,Louis Palmer,louis.palmer@example.com,Referral,High,Contacted,Grace
+1188,Cheryl Stone,cheryl.stone@example.com,Cold Call,Low,Qualified,Henry
+1189,Jack Kennedy,jack.kennedy@example.com,Event,Medium,Closed,Emily
+1190,Tammy Cooper,tammy.cooper@example.com,Website,High,New,Frank
+1191,Shawn Arnold,shawn.arnold@example.com,Referral,Low,Contacted,Grace
+1192,Marie Boyd,marie.boyd@example.com,Cold Call,Medium,Qualified,Henry
+1193,Bradley Daniels,bradley.daniels@example.com,Event,High,Closed,Emily
+1194,Diane Hopkins,diane.hopkins@example.com,Website,Low,New,Frank
+1195,Clayton Thornton,clayton.thornton@example.com,Referral,Medium,Contacted,Grace
+1196,Amber Newman,amber.newman@example.com,Cold Call,High,Qualified,Henry
+1197,Peter Hanson,peter.hanson@example.com,Event,Low,Closed,Emily
+1198,Crystal Owens,crystal.owens@example.com,Website,Medium,New,Frank
+1199,Bruce Williamson,bruce.williamson@example.com,Referral,High,Contacted,Grace
+1200,Tina Ferguson,tina.ferguson@example.com,Cold Call,Low,Qualified,Henry

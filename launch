@@ -1,0 +1,1 @@
+ssh -i "./glimpse.pem" ec2-user@ec2-54-146-185-204.compute-1.amazonaws.com

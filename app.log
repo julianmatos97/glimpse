@@ -1,0 +1,1982 @@
+2025-04-19 14:59:19,388 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-19 14:59:19,388 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-19 14:59:19,390 - src.main - INFO - Connecting to database
+2025-04-19 14:59:19,410 - src.main - INFO - FastAPI application initialized
+2025-04-19 14:59:22,069 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 14:59:22,069 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 14:59:22,505 - src.main - WARNING - Authentication failed: invalid password for admin@example.com
+2025-04-19 14:59:22,505 - src.main - WARNING - Login failed for user: admin@example.com
+2025-04-19 15:00:20,584 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 15:00:20,585 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 15:00:21,001 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 15:00:21,001 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 15:00:27,626 - src.main - INFO - Token verification request received
+2025-04-19 15:00:27,850 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:00:27,851 - src.main - INFO - Token verification request received
+2025-04-19 15:00:28,049 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:00:33,637 - src.main - INFO - Token verification request received
+2025-04-19 15:00:33,862 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:00:33,863 - src.main - INFO - Token verification request received
+2025-04-19 15:00:34,057 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:00:58,148 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 15:00:58,149 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 15:00:58,568 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 15:00:58,569 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 15:01:02,196 - src.main - INFO - Token verification request received
+2025-04-19 15:01:02,423 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:01:02,423 - src.main - INFO - Token verification request received
+2025-04-19 15:01:02,618 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:04:55,472 - src.main - INFO - Token verification request received
+2025-04-19 15:04:55,867 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:04:55,867 - src.main - INFO - Token verification request received
+2025-04-19 15:04:56,063 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:04:56,064 - src.main - INFO - Token verification request received
+2025-04-19 15:04:56,259 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 15:04:56,260 - src.main - INFO - Token verification request received
+2025-04-19 15:04:56,456 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:38:41,597 - src.main - INFO - Token verification request received
+2025-04-19 17:38:41,599 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 17:38:41,599 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 17:38:41,602 - src.main - INFO - Token verification request received
+2025-04-19 17:38:41,602 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 17:38:41,602 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 17:38:54,196 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:38:54,196 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:38:54,604 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:38:54,604 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:38:58,449 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:38:58,449 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:38:58,857 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:38:58,857 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:38:59,191 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:38:59,191 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:38:59,597 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:38:59,597 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:39:05,796 - src.main - INFO - Token verification request received
+2025-04-19 17:39:06,002 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:39:06,002 - src.main - INFO - Token verification request received
+2025-04-19 17:39:06,202 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:40:07,803 - src.main - INFO - Token verification request received
+2025-04-19 17:40:07,804 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 17:40:07,804 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 17:40:07,806 - src.main - INFO - Token verification request received
+2025-04-19 17:40:07,806 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 17:40:07,806 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 17:40:21,606 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:40:21,607 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:40:22,021 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:40:22,022 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:40:23,375 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:40:23,375 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:40:23,795 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:40:23,795 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:40:25,750 - src.main - INFO - Token verification request received
+2025-04-19 17:40:25,974 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:40:25,975 - src.main - INFO - Token verification request received
+2025-04-19 17:40:26,173 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:41:00,422 - src.main - INFO - Token verification request received
+2025-04-19 17:41:00,637 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:41:00,638 - src.main - INFO - Token verification request received
+2025-04-19 17:41:00,837 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:41:30,750 - src.main - INFO - Token verification request received
+2025-04-19 17:41:30,972 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:41:30,973 - src.main - INFO - Token verification request received
+2025-04-19 17:41:31,170 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:44:11,856 - src.main - INFO - Token verification request received
+2025-04-19 17:44:12,080 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:44:12,081 - src.main - INFO - Token verification request received
+2025-04-19 17:44:12,305 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:44:15,644 - src.main - INFO - Token verification request received
+2025-04-19 17:44:15,869 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:44:15,869 - src.main - INFO - Token verification request received
+2025-04-19 17:44:16,066 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:44:27,574 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:44:27,574 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:44:27,982 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:44:27,982 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:44:34,473 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:44:34,473 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:44:34,894 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:44:34,894 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:44:53,208 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:44:53,208 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:44:53,627 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:44:53,628 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:44:54,309 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 17:44:54,309 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 17:44:54,712 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 17:44:54,712 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 17:45:17,029 - src.main - INFO - Token verification request received
+2025-04-19 17:45:17,254 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:45:17,254 - src.main - INFO - Token verification request received
+2025-04-19 17:45:17,454 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:04,354 - src.main - INFO - Token verification request received
+2025-04-19 17:52:04,681 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:04,683 - src.main - INFO - Token verification request received
+2025-04-19 17:52:04,926 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:13,441 - src.main - INFO - Token verification request received
+2025-04-19 17:52:13,730 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:13,731 - src.main - INFO - Token verification request received
+2025-04-19 17:52:13,995 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:13,996 - src.main - INFO - Token verification request received
+2025-04-19 17:52:14,214 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:14,214 - src.main - INFO - Token verification request received
+2025-04-19 17:52:14,430 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:14,430 - src.main - INFO - Token verification request received
+2025-04-19 17:52:14,628 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:14,628 - src.main - INFO - Token verification request received
+2025-04-19 17:52:14,824 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:14,824 - src.main - INFO - Token verification request received
+2025-04-19 17:52:15,022 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 17:52:15,022 - src.main - INFO - Token verification request received
+2025-04-19 17:52:15,221 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-19 23:20:32,260 - src.main - INFO - Token verification request received
+2025-04-19 23:20:32,261 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 23:20:32,261 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 23:20:32,261 - src.main - INFO - Token verification request received
+2025-04-19 23:20:32,262 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-19 23:20:32,262 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-19 23:21:03,772 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 23:21:03,772 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 23:21:04,189 - src.main - WARNING - Authentication failed: invalid password for admin@example.com
+2025-04-19 23:21:04,189 - src.main - WARNING - Login failed for user: admin@example.com
+2025-04-19 23:21:13,892 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 23:21:13,892 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 23:21:14,312 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 23:21:14,313 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 23:42:18,307 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-19 23:42:18,308 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-19 23:42:18,310 - src.main - INFO - Connecting to database
+2025-04-19 23:42:18,338 - src.main - INFO - FastAPI application initialized
+2025-04-19 23:54:56,748 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-19 23:54:56,749 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-19 23:54:56,750 - src.main - INFO - Connecting to database
+2025-04-19 23:54:56,772 - src.main - INFO - FastAPI application initialized
+2025-04-19 23:55:00,961 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 23:55:00,962 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 23:55:01,395 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 23:55:01,396 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-19 23:55:21,142 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-19 23:55:21,143 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-19 23:55:21,558 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-19 23:55:21,558 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 11:17:34,731 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 11:17:34,732 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 11:17:35,142 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 11:17:35,142 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 11:17:44,043 - src.main - INFO - Token verification request received
+2025-04-20 11:17:44,266 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:17:44,267 - src.main - INFO - Token verification request received
+2025-04-20 11:17:44,461 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:17:45,001 - src.main - INFO - Token verification request received
+2025-04-20 11:17:45,225 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:17:45,226 - src.main - INFO - Token verification request received
+2025-04-20 11:17:45,429 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:12,454 - src.main - INFO - Token verification request received
+2025-04-20 11:21:12,671 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:12,672 - src.main - INFO - Token verification request received
+2025-04-20 11:21:12,874 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:15,945 - src.main - INFO - Token verification request received
+2025-04-20 11:21:16,168 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:16,169 - src.main - INFO - Token verification request received
+2025-04-20 11:21:16,399 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:21,203 - src.main - INFO - Token verification request received
+2025-04-20 11:21:21,428 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:21:21,428 - src.main - INFO - Token verification request received
+2025-04-20 11:21:21,651 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:22:18,794 - src.main - INFO - Token verification request received
+2025-04-20 11:22:19,019 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:22:19,020 - src.main - INFO - Token verification request received
+2025-04-20 11:22:19,218 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:24:22,348 - src.main - INFO - Token verification request received
+2025-04-20 11:24:22,561 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:33:12,837 - src.main - INFO - Token verification request received
+2025-04-20 11:33:13,056 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:33:13,056 - src.main - INFO - Token verification request received
+2025-04-20 11:33:13,251 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:33:43,553 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 11:33:43,553 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 11:33:43,555 - src.main - INFO - Connecting to database
+2025-04-20 11:33:43,578 - src.main - INFO - FastAPI application initialized
+2025-04-20 11:33:47,617 - src.main - INFO - Token verification request received
+2025-04-20 11:33:47,865 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:33:47,865 - src.main - INFO - Token verification request received
+2025-04-20 11:33:48,067 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:34:31,401 - src.main - INFO - Token verification request received
+2025-04-20 11:34:31,625 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:34:31,626 - src.main - INFO - Token verification request received
+2025-04-20 11:34:31,822 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:40:13,489 - src.main - INFO - Token verification request received
+2025-04-20 11:40:13,722 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:40:13,722 - src.main - INFO - Token verification request received
+2025-04-20 11:40:13,948 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:51:29,510 - src.main - INFO - Token verification request received
+2025-04-20 11:51:29,511 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 11:51:29,512 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 11:51:29,514 - src.main - INFO - Token verification request received
+2025-04-20 11:51:29,515 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 11:51:29,515 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 11:51:31,955 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 11:51:31,956 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 11:51:32,366 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 11:51:32,367 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 11:51:45,429 - src.main - INFO - Token verification request received
+2025-04-20 11:51:45,637 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:51:45,638 - src.main - INFO - Token verification request received
+2025-04-20 11:51:45,833 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:51:46,044 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 11:51:46,184 - src.main - ERROR - Error fetching leads: (psycopg2.errors.UndefinedColumn) column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+[SQL: SELECT leads.id, leads.name, leads.contact_information, leads.source, leads.interest, leads.status, leads.assigned_salesperson_name 
+FROM leads 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'param_1': 100, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 222, in get_leads
+    result = db.execute(query)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+[SQL: SELECT leads.id, leads.name, leads.contact_information, leads.source, leads.interest, leads.status, leads.assigned_salesperson_name 
+FROM leads 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'param_1': 100, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-04-20 11:51:46,407 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 11:51:46,409 - src.main - ERROR - Error fetching leads: (psycopg2.errors.UndefinedColumn) column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+[SQL: SELECT leads.id, leads.name, leads.contact_information, leads.source, leads.interest, leads.status, leads.assigned_salesperson_name 
+FROM leads 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'param_1': 100, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 222, in get_leads
+    result = db.execute(query)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column leads.assigned_salesperson_name does not exist
+LINE 1: ...tion, leads.source, leads.interest, leads.status, leads.assi...
+                                                             ^
+
+[SQL: SELECT leads.id, leads.name, leads.contact_information, leads.source, leads.interest, leads.status, leads.assigned_salesperson_name 
+FROM leads 
+ LIMIT %(param_1)s OFFSET %(param_2)s]
+[parameters: {'param_1': 100, 'param_2': 0}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-04-20 11:58:19,477 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 11:58:19,477 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 11:58:19,479 - src.main - INFO - Connecting to database
+2025-04-20 11:58:19,518 - src.main - INFO - FastAPI application initialized
+2025-04-20 11:58:49,703 - src.main - INFO - Token verification request received
+2025-04-20 11:58:49,951 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:58:49,951 - src.main - INFO - Token verification request received
+2025-04-20 11:58:50,147 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 11:58:50,347 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 11:58:50,395 - src.main - ERROR - Error fetching leads: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 2437, in _determine_joins
+    self.primaryjoin = join_condition(
+                       ~~~~~~~~~~~~~~^
+        self.parent_persist_selectable,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        consider_as_foreign_keys=consider_as_foreign_keys,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/util.py", line 123, in join_condition
+    return Join._join_condition(
+           ~~~~~~~~~~~~~~~~~~~~^
+        a,
+        ^^
+    ...<2 lines>...
+        consider_as_foreign_keys=consider_as_foreign_keys,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/selectable.py", line 1443, in _join_condition
+    raise exc.NoForeignKeysError(
+    ...<3 lines>...
+    )
+sqlalchemy.exc.NoForeignKeysError: Can't find any foreign key relationships between 'leads' and 'sales_persons'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 222, in get_leads
+    result = db.execute(query)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1630, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 711, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 320, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/visitors.py", line 141, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 4728, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/base.py", line 686, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 2630, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 2710, in __init__
+    entity._post_inspect
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4255, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/interfaces.py", line 589, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 1658, in do_init
+    self._setup_join_conditions()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 1898, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+                                ~~~~~~~~~~~~~^
+        parent_persist_selectable=self.parent.persist_selectable,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<14 lines>...
+        can_be_synced_fn=self._columns_are_mapped,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 2324, in __init__
+    self._determine_joins()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 2458, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+    ...<7 lines>...
+    ) from nfe
+sqlalchemy.exc.NoForeignKeysError: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2025-04-20 11:58:50,641 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 11:58:50,642 - src.main - ERROR - Error fetching leads: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Lead(leads)]'. Original exception was: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 222, in get_leads
+    result = db.execute(query)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1630, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 711, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 320, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/visitors.py", line 141, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 4728, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/base.py", line 686, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 2630, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 2710, in __init__
+    entity._post_inspect
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4251, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Lead(leads)]'. Original exception was: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2025-04-20 11:58:53,032 - src.main - INFO - Processing file upload: Lead Dataset - Sheet1.csv by user: admin@example.com
+2025-04-20 11:58:53,037 - src.main - INFO - CSV file contains 100 rows
+2025-04-20 11:58:53,040 - src.main - INFO - Attempting to insert 100 leads into database
+2025-04-20 11:58:53,040 - src.main - ERROR - Database error during bulk insert from Lead Dataset - Sheet1.csv: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Lead(leads)]'. Original exception was: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 313, in load_data_file
+    db.bulk_insert_mappings(Lead, leads_to_insert)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4669, in bulk_insert_mappings
+    self._bulk_save_mappings(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<5 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4763, in _bulk_save_mappings
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4752, in _bulk_save_mappings
+    bulk_persistence._bulk_insert(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<4 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/bulk_persistence.py", line 151, in _bulk_insert
+    _expand_composites(mapper, mappings)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/bulk_persistence.py", line 373, in _expand_composites
+    composite_attrs = mapper.composites
+                      ^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 1257, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 3218, in composites
+    return self._filter_properties(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        util.preloaded.orm_descriptor_props.CompositeProperty
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 3225, in _filter_properties
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4214, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4251, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Lead(leads)]'. Original exception was: Could not determine join condition between parent/child tables on relationship Lead.sales_person - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2025-04-20 12:03:11,458 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 12:03:11,458 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 12:03:11,459 - src.main - INFO - Connecting to database
+2025-04-20 12:03:11,481 - src.main - INFO - FastAPI application initialized
+2025-04-20 12:03:17,114 - src.main - INFO - Processing file upload: Lead Dataset - Sheet1.csv by user: admin@example.com
+2025-04-20 12:03:17,116 - src.main - INFO - CSV file contains 100 rows
+2025-04-20 12:03:17,117 - src.main - INFO - Found 4 unique salespersons in CSV
+2025-04-20 12:03:17,149 - src.main - ERROR - Error processing file Lead Dataset - Sheet1.csv: (psycopg2.errors.UndefinedTable) relation "sales_persons" does not exist
+LINE 2: FROM sales_persons 
+             ^
+
+[SQL: SELECT sales_persons.id AS sales_persons_id, sales_persons.name AS sales_persons_name, sales_persons.hashed_password AS sales_persons_hashed_password 
+FROM sales_persons 
+WHERE sales_persons.name = %(name_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'name_1': 'Alice', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "sales_persons" does not exist
+LINE 2: FROM sales_persons 
+             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 281, in load_data_file
+    existing_salesperson = db.query(SalesPerson).filter(SalesPerson.name == salesperson_name).first()
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/query.py", line 2858, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+        params,
+        ^^^^^^^
+        execution_options={"_sa_orm_load_options": self.load_options},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "sales_persons" does not exist
+LINE 2: FROM sales_persons 
+             ^
+
+[SQL: SELECT sales_persons.id AS sales_persons_id, sales_persons.name AS sales_persons_name, sales_persons.hashed_password AS sales_persons_hashed_password 
+FROM sales_persons 
+WHERE sales_persons.name = %(name_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'name_1': 'Alice', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-04-20 12:04:06,290 - src.main - INFO - Token verification request received
+2025-04-20 12:04:06,516 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:04:06,517 - src.main - INFO - Token verification request received
+2025-04-20 12:04:06,741 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:04:06,964 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:04:06,970 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:04:07,202 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:04:07,204 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:04:09,392 - src.main - INFO - Processing file upload: Lead Dataset - Sheet1.csv by user: admin@example.com
+2025-04-20 12:04:09,393 - src.main - INFO - CSV file contains 100 rows
+2025-04-20 12:04:09,394 - src.main - INFO - Found 4 unique salespersons in CSV
+2025-04-20 12:04:09,402 - src.main - INFO - Created new salesperson: Alice
+2025-04-20 12:04:09,404 - src.main - INFO - Created new salesperson: Diane
+2025-04-20 12:04:09,406 - src.main - INFO - Created new salesperson: Charlie
+2025-04-20 12:04:09,408 - src.main - INFO - Created new salesperson: Bob
+2025-04-20 12:04:09,410 - src.main - INFO - Attempting to insert 100 leads into database
+2025-04-20 12:04:09,417 - src.main - ERROR - Database error during bulk insert from Lead Dataset - Sheet1.csv: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "leads_contact_information_key"
+DETAIL:  Key (contact_information)=(bruce.montgomery@example.com) already exists.
+
+[SQL: INSERT INTO leads (name, contact_information, source, interest, status, assigned_salesperson_name, salesperson_id) VALUES (%(name__0)s, %(contact_information__0)s, %(source__0)s, %(interest__0)s, %(status__0)s, %(assigned_salesperson_name__0)s, %(sal ... 15100 characters truncated ... __99)s, %(interest__99)s, %(status__99)s, %(assigned_salesperson_name__99)s, %(salesperson_id__99)s)]
+[parameters: {'interest__0': 'MEDIUM', 'name__0': 'Chris Underwood', 'status__0': 'NEW', 'contact_information__0': 'chris.underwood@example.com', 'assigned_salesperson_name__0': 'Alice', 'source__0': 'REFERRAL', 'salesperson_id__0': 1, 'interest__1': 'HIGH', 'name__1': 'Amy Davidson', 'status__1': 'NEW', 'contact_information__1': 'amy.davidson@example.com', 'assigned_salesperson_name__1': 'Alice', 'source__1': 'REFERRAL', 'salesperson_id__1': 1, 'interest__2': 'LOW', 'name__2': 'Nicholas Campbell', 'status__2': 'NEW', 'contact_information__2': 'nicholas.campbell@example.com', 'assigned_salesperson_name__2': 'Alice', 'source__2': 'WEBSITE', 'salesperson_id__2': 1, 'interest__3': 'MEDIUM', 'name__3': 'Debbie Harper', 'status__3': 'CLOSED', 'contact_information__3': 'debbie.harper@example.com', 'assigned_salesperson_name__3': 'Alice', 'source__3': 'COLD_CALL', 'salesperson_id__3': 1, 'interest__4': 'HIGH', 'name__4': 'Carl Caldwell', 'status__4': 'QUALIFIED', 'contact_information__4': 'carl.caldwell@example.com', 'assigned_salesperson_name__4': 'Diane', 'source__4': 'REFERRAL', 'salesperson_id__4': 2, 'interest__5': 'LOW', 'name__5': 'Drew Bird', 'status__5': 'CLOSED', 'contact_information__5': 'drew.bird@example.com', 'assigned_salesperson_name__5': 'Diane', 'source__5': 'WEBSITE', 'salesperson_id__5': 2, 'interest__6': 'MEDIUM', 'name__6': 'Patrick Cross', 'status__6': 'CLOSED', 'contact_information__6': 'patrick.cross@example.com', 'assigned_salesperson_name__6': 'Charlie', 'source__6': 'COLD_CALL', 'salesperson_id__6': 3, 'interest__7': 'HIGH' ... 600 parameters truncated ... 'salesperson_id__92': 4, 'interest__93': 'MEDIUM', 'name__93': 'Kathy Anderson', 'status__93': 'QUALIFIED', 'contact_information__93': 'kathy.anderson@example.com', 'assigned_salesperson_name__93': 'Charlie', 'source__93': 'COLD_CALL', 'salesperson_id__93': 3, 'interest__94': 'LOW', 'name__94': 'Margaret Edwards', 'status__94': 'CLOSED', 'contact_information__94': 'margaret.edwards@example.com', 'assigned_salesperson_name__94': 'Bob', 'source__94': 'REFERRAL', 'salesperson_id__94': 4, 'interest__95': 'MEDIUM', 'name__95': 'Jerry Berry', 'status__95': 'NEW', 'contact_information__95': 'jerry.berry@example.com', 'assigned_salesperson_name__95': 'Diane', 'source__95': 'WEBSITE', 'salesperson_id__95': 2, 'interest__96': 'LOW', 'name__96': 'Thomas Hernandez', 'status__96': 'NEW', 'contact_information__96': 'thomas.hernandez@example.com', 'assigned_salesperson_name__96': 'Charlie', 'source__96': 'COLD_CALL', 'salesperson_id__96': 3, 'interest__97': 'LOW', 'name__97': 'Gary Hawkins', 'status__97': 'NEW', 'contact_information__97': 'gary.hawkins@example.com', 'assigned_salesperson_name__97': 'Diane', 'source__97': 'COLD_CALL', 'salesperson_id__97': 2, 'interest__98': 'MEDIUM', 'name__98': 'Jennifer Rogers', 'status__98': 'CONTACTED', 'contact_information__98': 'jennifer.rogers@example.com', 'assigned_salesperson_name__98': 'Bob', 'source__98': 'REFERRAL', 'salesperson_id__98': 4, 'interest__99': 'LOW', 'name__99': 'Michael Stephens', 'status__99': 'NEW', 'contact_information__99': 'michael.stephens@example.com', 'assigned_salesperson_name__99': 'Alice', 'source__99': 'WEBSITE', 'salesperson_id__99': 1}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2115, in _exec_insertmany_context
+    dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "leads_contact_information_key"
+DETAIL:  Key (contact_information)=(bruce.montgomery@example.com) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/julianmatos/Projects.nosync/glimpse/src/main.py", line 345, in load_data_file
+    db.bulk_insert_mappings(Lead, leads_to_insert)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4669, in bulk_insert_mappings
+    self._bulk_save_mappings(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<5 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4763, in _bulk_save_mappings
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 4752, in _bulk_save_mappings
+    bulk_persistence._bulk_insert(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<4 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/bulk_persistence.py", line 222, in _bulk_insert
+    result = persistence._emit_insert_statements(
+        base_mapper,
+    ...<6 lines>...
+        execution_options=execution_options,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/orm/persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+        statement, multiparams, execution_options=execution_options
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1841, in _execute_context
+    return self._exec_insertmany_context(dialect, context)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2123, in _exec_insertmany_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e,
+        ^^
+    ...<4 lines>...
+        is_sub_exec=True,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 2115, in _exec_insertmany_context
+    dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "/Users/julianmatos/Projects.nosync/glimpse/.venv/lib/python3.13/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.IntegrityError: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "leads_contact_information_key"
+DETAIL:  Key (contact_information)=(bruce.montgomery@example.com) already exists.
+
+[SQL: INSERT INTO leads (name, contact_information, source, interest, status, assigned_salesperson_name, salesperson_id) VALUES (%(name__0)s, %(contact_information__0)s, %(source__0)s, %(interest__0)s, %(status__0)s, %(assigned_salesperson_name__0)s, %(sal ... 15100 characters truncated ... __99)s, %(interest__99)s, %(status__99)s, %(assigned_salesperson_name__99)s, %(salesperson_id__99)s)]
+[parameters: {'interest__0': 'MEDIUM', 'name__0': 'Chris Underwood', 'status__0': 'NEW', 'contact_information__0': 'chris.underwood@example.com', 'assigned_salesperson_name__0': 'Alice', 'source__0': 'REFERRAL', 'salesperson_id__0': 1, 'interest__1': 'HIGH', 'name__1': 'Amy Davidson', 'status__1': 'NEW', 'contact_information__1': 'amy.davidson@example.com', 'assigned_salesperson_name__1': 'Alice', 'source__1': 'REFERRAL', 'salesperson_id__1': 1, 'interest__2': 'LOW', 'name__2': 'Nicholas Campbell', 'status__2': 'NEW', 'contact_information__2': 'nicholas.campbell@example.com', 'assigned_salesperson_name__2': 'Alice', 'source__2': 'WEBSITE', 'salesperson_id__2': 1, 'interest__3': 'MEDIUM', 'name__3': 'Debbie Harper', 'status__3': 'CLOSED', 'contact_information__3': 'debbie.harper@example.com', 'assigned_salesperson_name__3': 'Alice', 'source__3': 'COLD_CALL', 'salesperson_id__3': 1, 'interest__4': 'HIGH', 'name__4': 'Carl Caldwell', 'status__4': 'QUALIFIED', 'contact_information__4': 'carl.caldwell@example.com', 'assigned_salesperson_name__4': 'Diane', 'source__4': 'REFERRAL', 'salesperson_id__4': 2, 'interest__5': 'LOW', 'name__5': 'Drew Bird', 'status__5': 'CLOSED', 'contact_information__5': 'drew.bird@example.com', 'assigned_salesperson_name__5': 'Diane', 'source__5': 'WEBSITE', 'salesperson_id__5': 2, 'interest__6': 'MEDIUM', 'name__6': 'Patrick Cross', 'status__6': 'CLOSED', 'contact_information__6': 'patrick.cross@example.com', 'assigned_salesperson_name__6': 'Charlie', 'source__6': 'COLD_CALL', 'salesperson_id__6': 3, 'interest__7': 'HIGH' ... 600 parameters truncated ... 'salesperson_id__92': 4, 'interest__93': 'MEDIUM', 'name__93': 'Kathy Anderson', 'status__93': 'QUALIFIED', 'contact_information__93': 'kathy.anderson@example.com', 'assigned_salesperson_name__93': 'Charlie', 'source__93': 'COLD_CALL', 'salesperson_id__93': 3, 'interest__94': 'LOW', 'name__94': 'Margaret Edwards', 'status__94': 'CLOSED', 'contact_information__94': 'margaret.edwards@example.com', 'assigned_salesperson_name__94': 'Bob', 'source__94': 'REFERRAL', 'salesperson_id__94': 4, 'interest__95': 'MEDIUM', 'name__95': 'Jerry Berry', 'status__95': 'NEW', 'contact_information__95': 'jerry.berry@example.com', 'assigned_salesperson_name__95': 'Diane', 'source__95': 'WEBSITE', 'salesperson_id__95': 2, 'interest__96': 'LOW', 'name__96': 'Thomas Hernandez', 'status__96': 'NEW', 'contact_information__96': 'thomas.hernandez@example.com', 'assigned_salesperson_name__96': 'Charlie', 'source__96': 'COLD_CALL', 'salesperson_id__96': 3, 'interest__97': 'LOW', 'name__97': 'Gary Hawkins', 'status__97': 'NEW', 'contact_information__97': 'gary.hawkins@example.com', 'assigned_salesperson_name__97': 'Diane', 'source__97': 'COLD_CALL', 'salesperson_id__97': 2, 'interest__98': 'MEDIUM', 'name__98': 'Jennifer Rogers', 'status__98': 'CONTACTED', 'contact_information__98': 'jennifer.rogers@example.com', 'assigned_salesperson_name__98': 'Bob', 'source__98': 'REFERRAL', 'salesperson_id__98': 4, 'interest__99': 'LOW', 'name__99': 'Michael Stephens', 'status__99': 'NEW', 'contact_information__99': 'michael.stephens@example.com', 'assigned_salesperson_name__99': 'Alice', 'source__99': 'WEBSITE', 'salesperson_id__99': 1}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-20 12:04:20,563 - src.main - INFO - Token verification request received
+2025-04-20 12:04:20,764 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:04:20,764 - src.main - INFO - Token verification request received
+2025-04-20 12:04:20,965 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:04:21,161 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:04:21,164 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:04:21,365 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:04:21,368 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:05:54,913 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 12:05:54,913 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 12:05:54,914 - src.main - INFO - Connecting to database
+2025-04-20 12:05:54,938 - src.main - INFO - FastAPI application initialized
+2025-04-20 12:06:22,452 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 12:06:22,453 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 12:06:22,454 - src.main - INFO - Connecting to database
+2025-04-20 12:06:22,477 - src.main - INFO - FastAPI application initialized
+2025-04-20 12:06:25,833 - src.main - INFO - Token verification request received
+2025-04-20 12:06:26,060 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:06:26,061 - src.main - INFO - Token verification request received
+2025-04-20 12:06:26,263 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:06:26,463 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:06:26,500 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:06:26,702 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:06:26,704 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 12:06:28,495 - src.main - INFO - Processing file upload: Lead Dataset - Sheet1.csv by user: admin@example.com
+2025-04-20 12:06:28,497 - src.main - INFO - CSV file contains 100 rows
+2025-04-20 12:06:28,498 - src.main - INFO - Found 4 unique salespersons in CSV
+2025-04-20 12:06:28,504 - src.main - INFO - Created new salesperson: Alice
+2025-04-20 12:06:28,506 - src.main - INFO - Created new salesperson: Diane
+2025-04-20 12:06:28,507 - src.main - INFO - Created new salesperson: Charlie
+2025-04-20 12:06:28,508 - src.main - INFO - Created new salesperson: Bob
+2025-04-20 12:06:28,509 - src.main - INFO - Found 0 existing contacts in database
+2025-04-20 12:06:28,512 - src.main - INFO - Attempting to insert 99 new leads into database
+2025-04-20 12:06:28,521 - src.main - INFO - Successfully processed 99 new leads and updated 0 existing leads
+2025-04-20 12:06:30,411 - src.main - INFO - Token verification request received
+2025-04-20 12:06:30,619 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:06:30,619 - src.main - INFO - Token verification request received
+2025-04-20 12:06:30,816 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:06:31,016 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:06:31,020 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:06:31,225 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:06:31,228 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:06:42,379 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=Status.CONTACTED, offset=0, limit=100
+2025-04-20 12:06:42,384 - src.main - INFO - Successfully retrieved 15 leads
+2025-04-20 12:06:45,680 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:06:45,684 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:06:48,332 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=None, offset=0, limit=100
+2025-04-20 12:06:48,335 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 12:07:17,521 - src.main - INFO - Fetching leads with filters: source=Source.COLD_CALL, interest=Interest.HIGH, status=None, offset=0, limit=100
+2025-04-20 12:07:17,528 - src.main - INFO - Successfully retrieved 3 leads
+2025-04-20 12:07:19,783 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=None, offset=0, limit=100
+2025-04-20 12:07:19,786 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 12:07:22,742 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:07:22,746 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:22,718 - src.main - INFO - Token verification request received
+2025-04-20 12:10:22,919 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:22,920 - src.main - INFO - Token verification request received
+2025-04-20 12:10:23,119 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:23,316 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:23,327 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:23,530 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:23,532 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:39,262 - src.main - INFO - Token verification request received
+2025-04-20 12:10:39,467 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:39,468 - src.main - INFO - Token verification request received
+2025-04-20 12:10:39,673 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:39,869 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:39,872 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:40,090 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:40,093 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:51,598 - src.main - INFO - Token verification request received
+2025-04-20 12:10:51,806 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:51,807 - src.main - INFO - Token verification request received
+2025-04-20 12:10:52,016 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:10:52,218 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:52,220 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:10:52,430 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:10:52,433 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:17:59,138 - src.main - INFO - Token verification request received
+2025-04-20 12:17:59,353 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:17:59,354 - src.main - INFO - Token verification request received
+2025-04-20 12:17:59,554 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:17:59,758 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:17:59,765 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:17:59,971 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:17:59,974 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:18:11,528 - src.main - INFO - Token verification request received
+2025-04-20 12:18:11,747 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:18:11,748 - src.main - INFO - Token verification request received
+2025-04-20 12:18:11,943 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:18:12,144 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:18:12,149 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:18:12,353 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:18:12,356 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:18:20,729 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=None, offset=0, limit=100
+2025-04-20 12:18:20,733 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 12:18:24,185 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:18:24,191 - src.main - INFO - Successfully retrieved 7 leads
+2025-04-20 12:18:29,818 - src.main - INFO - Token verification request received
+2025-04-20 12:18:30,077 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:18:30,077 - src.main - INFO - Token verification request received
+2025-04-20 12:18:30,275 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:18:30,476 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:18:30,481 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:18:30,685 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:18:30,688 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:36:51,647 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 12:36:51,647 - src.main - WARNING - Token verification failed
+2025-04-20 12:36:52,655 - src.main - INFO - Token verification request received
+2025-04-20 12:36:52,656 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 12:36:52,657 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 12:36:52,658 - src.main - INFO - Token verification request received
+2025-04-20 12:36:52,658 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 12:36:52,659 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 12:36:55,010 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 12:36:55,010 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 12:36:55,406 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 12:36:55,406 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 12:36:55,628 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:36:55,637 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:36:55,840 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:36:55,844 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:37:01,894 - src.main - INFO - Token verification request received
+2025-04-20 12:37:02,117 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:37:02,118 - src.main - INFO - Token verification request received
+2025-04-20 12:37:02,313 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:37:02,509 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:37:02,513 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:37:02,717 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:37:02,720 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:37:37,959 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=50
+2025-04-20 12:37:37,964 - src.main - INFO - Successfully retrieved 50 leads
+2025-04-20 12:38:02,554 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=Status.CLOSED, offset=0, limit=100
+2025-04-20 12:38:02,557 - src.main - INFO - Successfully retrieved 17 leads
+2025-04-20 12:38:11,032 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:38:11,035 - src.main - INFO - Successfully retrieved 21 leads
+2025-04-20 12:38:25,284 - src.main - INFO - Token verification request received
+2025-04-20 12:38:25,489 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:38:25,490 - src.main - INFO - Token verification request received
+2025-04-20 12:38:25,689 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:38:25,885 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:38:25,889 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:38:26,097 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:38:26,100 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:41:02,945 - src.main - INFO - Token verification request received
+2025-04-20 12:41:03,155 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:41:03,155 - src.main - INFO - Token verification request received
+2025-04-20 12:41:03,350 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:41:03,552 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:41:03,556 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:41:03,757 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:41:03,761 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:41:25,324 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 12:41:25,324 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 12:41:25,326 - src.main - INFO - Connecting to database
+2025-04-20 12:41:25,348 - src.main - INFO - FastAPI application initialized
+2025-04-20 12:42:16,002 - src.main - INFO - Token verification request received
+2025-04-20 12:42:16,233 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:42:16,234 - src.main - INFO - Token verification request received
+2025-04-20 12:42:16,432 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:42:16,630 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:42:16,669 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:42:16,877 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:42:16,880 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:46:17,959 - src.main - INFO - Token verification request received
+2025-04-20 12:46:18,176 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:46:18,177 - src.main - INFO - Token verification request received
+2025-04-20 12:46:18,375 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:46:18,571 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:46:18,578 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:46:18,788 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:46:18,791 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:46:21,507 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=25
+2025-04-20 12:46:21,510 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 12:46:28,270 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:46:28,274 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:46:33,704 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=25
+2025-04-20 12:46:33,706 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 12:50:01,366 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 12:50:01,367 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 12:50:01,778 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 12:50:01,778 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 12:50:03,749 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 12:50:03,749 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 12:50:04,149 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 12:50:04,149 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 12:52:16,975 - src.main - INFO - Token verification request received
+2025-04-20 12:52:17,186 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:52:17,187 - src.main - INFO - Token verification request received
+2025-04-20 12:52:17,383 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:52:19,182 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 12:52:19,182 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 12:52:19,602 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 12:52:19,603 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 12:52:19,826 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:52:19,835 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:52:20,042 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:52:20,044 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:52:24,623 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 12:52:24,623 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 12:52:25,018 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 12:52:25,018 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 12:52:25,236 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:52:25,240 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:52:25,445 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:52:25,448 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 12:54:10,438 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:54:10,449 - src.main - INFO - Successfully retrieved 21 leads
+2025-04-20 12:54:13,301 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:54:13,305 - src.main - INFO - Successfully retrieved 7 leads
+2025-04-20 12:54:15,614 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=Interest.HIGH, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:54:15,618 - src.main - INFO - Successfully retrieved 2 leads
+2025-04-20 12:55:35,596 - src.main - INFO - Processing file upload: dataset2.csv by user: admin@example.com
+2025-04-20 12:55:35,601 - src.main - INFO - CSV file contains 100 rows
+2025-04-20 12:55:35,601 - src.main - INFO - Found 4 unique salespersons in CSV
+2025-04-20 12:55:35,609 - src.main - INFO - Created new salesperson: Emily
+2025-04-20 12:55:35,611 - src.main - INFO - Created new salesperson: Frank
+2025-04-20 12:55:35,612 - src.main - INFO - Created new salesperson: Grace
+2025-04-20 12:55:35,613 - src.main - INFO - Created new salesperson: Henry
+2025-04-20 12:55:35,614 - src.main - INFO - Found 99 existing contacts in database
+2025-04-20 12:55:35,616 - src.main - INFO - Attempting to insert 100 new leads into database
+2025-04-20 12:55:35,630 - src.main - INFO - Successfully processed 100 new leads and updated 0 existing leads
+2025-04-20 12:55:41,666 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=None, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 12:55:41,670 - src.main - INFO - Successfully retrieved 4 leads
+2025-04-20 12:55:44,265 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:55:44,271 - src.main - INFO - Successfully retrieved 55 leads
+2025-04-20 12:55:47,411 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:55:47,414 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 12:55:57,283 - src.main - INFO - Token verification request received
+2025-04-20 12:55:57,486 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:55:57,486 - src.main - INFO - Token verification request received
+2025-04-20 12:55:57,692 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:55:57,887 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:55:57,890 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 12:55:58,105 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:55:58,107 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 12:56:08,148 - src.main - INFO - Token verification request received
+2025-04-20 12:56:08,381 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:56:08,382 - src.main - INFO - Token verification request received
+2025-04-20 12:56:08,581 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 12:56:08,777 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:56:08,782 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 12:56:08,989 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 12:56:08,992 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:08:00,241 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:08:00,241 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:08:00,243 - src.main - INFO - Connecting to database
+2025-04-20 22:08:00,267 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:08:10,126 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:08:10,126 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:08:10,127 - src.main - INFO - Connecting to database
+2025-04-20 22:08:10,143 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:08:50,305 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:08:50,305 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:08:50,307 - src.main - INFO - Connecting to database
+2025-04-20 22:08:50,332 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:08:56,489 - src.main - INFO - Token verification request received
+2025-04-20 22:08:56,490 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 22:08:56,490 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 22:08:56,490 - src.main - INFO - Token verification request received
+2025-04-20 22:08:56,490 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 22:08:56,491 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 22:08:58,908 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 22:08:58,909 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 22:08:59,338 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 22:08:59,339 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 22:08:59,568 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:08:59,689 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:08:59,902 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:08:59,906 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:10,097 - src.main - INFO - Token verification request received
+2025-04-20 22:09:10,321 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:09:10,322 - src.main - INFO - Token verification request received
+2025-04-20 22:09:10,517 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:09:10,713 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:10,717 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:10,919 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:10,922 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:11,499 - src.main - INFO - Token verification request received
+2025-04-20 22:09:11,713 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:09:11,714 - src.main - INFO - Token verification request received
+2025-04-20 22:09:11,909 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:09:12,105 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:12,109 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:12,308 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:12,311 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:37,252 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-20 22:09:37,252 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-20 22:09:37,671 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-20 22:09:37,671 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-20 22:09:37,897 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:37,899 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:09:38,102 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:09:38,105 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:10:26,869 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:10:26,869 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:10:26,871 - src.main - INFO - Connecting to database
+2025-04-20 22:10:26,891 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:10:28,659 - src.main - INFO - Token verification request received
+2025-04-20 22:10:28,907 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:10:28,908 - src.main - INFO - Token verification request received
+2025-04-20 22:10:29,106 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:10:29,305 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:10:29,335 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:10:29,538 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:10:29,541 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:11:44,213 - src.main - INFO - Token verification request received
+2025-04-20 22:11:44,438 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:11:44,439 - src.main - INFO - Token verification request received
+2025-04-20 22:11:44,659 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:11:44,882 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:11:44,884 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:11:45,108 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:11:45,111 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:20,189 - src.main - INFO - Token verification request received
+2025-04-20 22:12:20,417 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:20,418 - src.main - INFO - Token verification request received
+2025-04-20 22:12:20,642 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:20,879 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:20,882 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:21,141 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:21,143 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:23,238 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:12:23,238 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:12:23,240 - src.main - INFO - Connecting to database
+2025-04-20 22:12:23,261 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:12:25,201 - src.main - INFO - Token verification request received
+2025-04-20 22:12:25,449 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:25,449 - src.main - INFO - Token verification request received
+2025-04-20 22:12:25,648 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:25,847 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:25,879 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:26,079 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:26,081 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:48,832 - src.main - INFO - Token verification request received
+2025-04-20 22:12:49,061 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:49,061 - src.main - INFO - Token verification request received
+2025-04-20 22:12:49,259 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:49,456 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:49,458 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:49,668 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:49,670 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:53,528 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:12:53,528 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:12:53,529 - src.main - INFO - Connecting to database
+2025-04-20 22:12:53,549 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:12:54,889 - src.main - INFO - Token verification request received
+2025-04-20 22:12:55,128 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:55,129 - src.main - INFO - Token verification request received
+2025-04-20 22:12:55,327 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:12:55,529 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:55,558 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:55,757 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:12:55,759 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:12:55,952 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:12:56,175 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:13:43,553 - src.main - INFO - Token verification request received
+2025-04-20 22:13:43,799 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:13:43,800 - src.main - INFO - Token verification request received
+2025-04-20 22:13:44,009 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:13:44,205 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:13:44,209 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:13:44,408 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:13:44,410 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:13:44,612 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:13:44,828 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:03,875 - src.main - INFO - Token verification request received
+2025-04-20 22:14:04,100 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:04,101 - src.main - INFO - Token verification request received
+2025-04-20 22:14:04,311 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:04,510 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:04,513 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:04,712 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:04,714 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:04,912 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:05,128 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:35,935 - src.main - INFO - Token verification request received
+2025-04-20 22:14:36,154 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:36,155 - src.main - INFO - Token verification request received
+2025-04-20 22:14:36,365 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:36,566 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:36,570 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:36,789 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:36,791 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:36,986 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:37,199 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:41,322 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:14:41,322 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:14:41,323 - src.main - INFO - Connecting to database
+2025-04-20 22:14:41,344 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:14:43,299 - src.main - INFO - Token verification request received
+2025-04-20 22:14:43,546 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:43,547 - src.main - INFO - Token verification request received
+2025-04-20 22:14:43,759 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:14:43,965 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:44,009 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:44,214 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:14:44,216 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:14:44,411 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:44,412 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x106ced090>
+2025-04-20 22:14:44,425 - src.main - INFO - Total leads count: 199
+2025-04-20 22:14:44,636 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:14:44,636 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072ac640>
+2025-04-20 22:14:44,638 - src.main - INFO - Total leads count: 199
+2025-04-20 22:15:56,860 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:15:56,866 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:15:57,071 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:15:57,071 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x10722a8d0>
+2025-04-20 22:15:57,075 - src.main - INFO - Total leads count: 199
+2025-04-20 22:15:57,268 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=200, limit=100
+2025-04-20 22:15:57,271 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:15:57,593 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:15:57,593 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x106ce6cf0>
+2025-04-20 22:15:57,596 - src.main - INFO - Total leads count: 199
+2025-04-20 22:15:58,956 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:15:58,959 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:15:59,165 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:15:59,165 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x10727c950>
+2025-04-20 22:15:59,167 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:04,439 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=200, limit=100
+2025-04-20 22:16:04,441 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:16:04,643 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:04,643 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262b70>
+2025-04-20 22:16:04,647 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:06,073 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:16:06,077 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:16:06,283 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:06,283 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262b70>
+2025-04-20 22:16:06,285 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:09,037 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:16:09,041 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:16:09,244 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:09,244 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262b70>
+2025-04-20 22:16:09,247 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:22,042 - src.main - INFO - Token verification request received
+2025-04-20 22:16:22,252 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:16:22,253 - src.main - INFO - Token verification request received
+2025-04-20 22:16:22,465 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:16:22,665 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:16:22,667 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:16:22,870 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:16:22,872 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:16:23,068 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:23,068 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b55e0>
+2025-04-20 22:16:23,069 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:23,289 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:23,289 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:23,291 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:25,970 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:16:25,972 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:16:26,181 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:26,181 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:26,184 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:27,130 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=200, limit=100
+2025-04-20 22:16:27,132 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:16:27,337 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:27,337 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:27,340 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:44,612 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:16:44,616 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:16:44,817 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:44,817 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:44,819 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:47,317 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:16:47,320 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:16:47,528 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:47,528 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:47,530 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:48,965 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:16:48,968 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:16:49,171 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:49,171 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:49,175 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:51,567 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=200, limit=100
+2025-04-20 22:16:51,570 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:16:51,770 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:51,770 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:51,773 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:52,931 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=300, limit=100
+2025-04-20 22:16:52,934 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:16:53,134 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:53,134 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:53,137 - src.main - INFO - Total leads count: 199
+2025-04-20 22:16:53,993 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=400, limit=100
+2025-04-20 22:16:53,996 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:16:54,197 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:16:54,197 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:16:54,200 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:20,539 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=300, limit=100
+2025-04-20 22:17:20,543 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:17:20,746 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:20,746 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:20,748 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:21,646 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=200, limit=100
+2025-04-20 22:17:21,649 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:17:21,850 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:21,850 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:21,852 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:22,701 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:17:22,705 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:17:22,908 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:22,908 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:22,911 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:25,772 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:17:25,775 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:17:25,979 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:25,979 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:25,982 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:40,925 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:17:40,932 - src.main - INFO - Successfully retrieved 37 leads
+2025-04-20 22:17:41,132 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:41,132 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:41,135 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:43,464 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:17:43,465 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:17:43,666 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:43,666 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:43,670 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:44,722 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:17:44,726 - src.main - INFO - Successfully retrieved 37 leads
+2025-04-20 22:17:44,929 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:44,929 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:44,931 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:51,985 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:17:51,988 - src.main - INFO - Successfully retrieved 12 leads
+2025-04-20 22:17:52,189 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:52,189 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:52,192 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:54,581 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=Interest.MEDIUM, status=Status.CONTACTED, offset=0, limit=100
+2025-04-20 22:17:54,585 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:17:54,784 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:54,784 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:54,786 - src.main - INFO - Total leads count: 199
+2025-04-20 22:17:57,316 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=Interest.MEDIUM, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 22:17:57,320 - src.main - INFO - Successfully retrieved 2 leads
+2025-04-20 22:17:57,523 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:17:57,523 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:17:57,526 - src.main - INFO - Total leads count: 199
+2025-04-20 22:18:18,233 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:18:18,236 - src.main - INFO - Successfully retrieved 12 leads
+2025-04-20 22:18:18,437 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:18:18,437 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:18:18,439 - src.main - INFO - Total leads count: 199
+2025-04-20 22:18:20,176 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:18:20,178 - src.main - INFO - Successfully retrieved 37 leads
+2025-04-20 22:18:20,426 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:18:20,426 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:18:20,429 - src.main - INFO - Total leads count: 199
+2025-04-20 22:18:22,552 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:18:22,555 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:18:22,756 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:18:22,756 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107262d50>
+2025-04-20 22:18:22,760 - src.main - INFO - Total leads count: 199
+2025-04-20 22:19:01,466 - src.main - INFO - Token verification request received
+2025-04-20 22:19:01,668 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:19:01,668 - src.main - INFO - Token verification request received
+2025-04-20 22:19:01,871 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:19:02,067 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:19:02,069 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:19:02,268 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:19:02,272 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:19:02,469 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:19:02,469 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b5b80>
+2025-04-20 22:19:02,472 - src.main - INFO - Total leads count: 199
+2025-04-20 22:19:02,680 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:19:02,680 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263a70>
+2025-04-20 22:19:02,682 - src.main - INFO - Total leads count: 199
+2025-04-20 22:19:17,699 - src.main - INFO - Token verification request received
+2025-04-20 22:19:17,928 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:19:17,930 - src.main - INFO - Token verification request received
+2025-04-20 22:19:18,131 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:19:18,329 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:19:18,333 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:19:18,534 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:19:18,537 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:19:18,731 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:19:18,731 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b54f0>
+2025-04-20 22:19:18,735 - src.main - INFO - Total leads count: 199
+2025-04-20 22:19:18,939 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:19:18,939 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072635c0>
+2025-04-20 22:19:18,942 - src.main - INFO - Total leads count: 199
+2025-04-20 22:21:13,821 - src.main - INFO - Token verification request received
+2025-04-20 22:21:14,063 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:21:14,064 - src.main - INFO - Token verification request received
+2025-04-20 22:21:14,272 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:21:14,497 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:21:14,502 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:21:14,712 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:21:14,721 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:21:14,916 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:21:14,916 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b4e60>
+2025-04-20 22:21:14,920 - src.main - INFO - Total leads count: 199
+2025-04-20 22:21:15,170 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:21:15,170 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263a70>
+2025-04-20 22:21:15,187 - src.main - INFO - Total leads count: 199
+2025-04-20 22:24:28,105 - src.main - INFO - Token verification request received
+2025-04-20 22:24:28,311 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:24:28,311 - src.main - INFO - Token verification request received
+2025-04-20 22:24:28,508 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:24:28,717 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:24:28,719 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:24:28,919 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:24:28,923 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:24:29,122 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:24:29,122 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b5c70>
+2025-04-20 22:24:29,124 - src.main - INFO - Total leads count: 199
+2025-04-20 22:24:29,338 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:24:29,338 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:24:29,340 - src.main - INFO - Total leads count: 199
+2025-04-20 22:24:32,539 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:24:32,542 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:24:32,751 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:24:32,751 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:24:32,753 - src.main - INFO - Total leads count: 199
+2025-04-20 22:24:35,509 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:24:35,512 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:24:35,717 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:24:35,717 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:24:35,719 - src.main - INFO - Total leads count: 199
+2025-04-20 22:25:31,920 - src.main - INFO - Token verification request received
+2025-04-20 22:25:32,148 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:25:32,149 - src.main - INFO - Token verification request received
+2025-04-20 22:25:32,377 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:25:32,603 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:25:32,606 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:25:32,844 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:25:32,847 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:25:33,091 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:25:33,091 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b5130>
+2025-04-20 22:25:33,094 - src.main - INFO - Total leads count: 199
+2025-04-20 22:25:33,295 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:25:33,295 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072635c0>
+2025-04-20 22:25:33,298 - src.main - INFO - Total leads count: 199
+2025-04-20 22:25:54,790 - src.main - INFO - Token verification request received
+2025-04-20 22:25:55,021 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:25:55,021 - src.main - INFO - Token verification request received
+2025-04-20 22:25:55,235 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:25:55,440 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:25:55,443 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:25:55,656 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:25:55,658 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:25:55,861 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:25:55,861 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b55e0>
+2025-04-20 22:25:55,864 - src.main - INFO - Total leads count: 199
+2025-04-20 22:25:56,088 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:25:56,088 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072633e0>
+2025-04-20 22:25:56,091 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:02,819 - src.main - INFO - Token verification request received
+2025-04-20 22:26:03,031 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:26:03,032 - src.main - INFO - Token verification request received
+2025-04-20 22:26:03,233 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:26:03,434 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:26:03,436 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:26:03,637 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:26:03,639 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:26:03,846 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:03,846 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x1072b5a90>
+2025-04-20 22:26:03,848 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:04,068 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:04,068 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:04,070 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:06,210 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:26:06,213 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:26:06,418 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:06,418 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:06,420 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:09,339 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:26:09,342 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:26:09,543 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:09,543 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:09,547 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:14,810 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=25
+2025-04-20 22:26:14,814 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:26:15,018 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:15,018 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:15,020 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:17,223 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=25, limit=25
+2025-04-20 22:26:17,226 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:26:17,430 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:17,430 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:17,433 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:18,952 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=50, limit=25
+2025-04-20 22:26:18,956 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:26:19,156 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:19,156 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:19,160 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:20,548 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=75, limit=25
+2025-04-20 22:26:20,552 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:26:20,758 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:20,758 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:20,761 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:24,345 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:26:24,348 - src.main - INFO - Successfully retrieved 74 leads
+2025-04-20 22:26:24,550 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:24,550 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:24,553 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:27,500 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.MEDIUM, status=None, offset=100, limit=100
+2025-04-20 22:26:27,503 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:26:27,704 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:27,704 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:27,706 - src.main - INFO - Total leads count: 199
+2025-04-20 22:26:29,407 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:26:29,410 - src.main - INFO - Successfully retrieved 74 leads
+2025-04-20 22:26:29,616 - src.main - INFO - Fetching total lead count for user: admin@example.com
+2025-04-20 22:26:29,616 - src.main - INFO - Database session: <sqlalchemy.orm.session.Session object at 0x107263890>
+2025-04-20 22:26:29,618 - src.main - INFO - Total leads count: 199
+2025-04-20 22:27:10,499 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:27:10,499 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:27:10,500 - src.main - INFO - Connecting to database
+2025-04-20 22:27:10,522 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:27:19,501 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:27:19,501 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:27:19,502 - src.main - INFO - Connecting to database
+2025-04-20 22:27:19,520 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:28:43,727 - src.main - INFO - Token verification request received
+2025-04-20 22:28:43,958 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:28:43,959 - src.main - INFO - Token verification request received
+2025-04-20 22:28:44,163 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:28:44,362 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:28:44,394 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:28:44,606 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:28:44,611 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:08,878 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:29:08,878 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:29:08,879 - src.main - INFO - Connecting to database
+2025-04-20 22:29:08,901 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:29:10,390 - src.main - INFO - Token verification request received
+2025-04-20 22:29:10,639 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:10,639 - src.main - INFO - Token verification request received
+2025-04-20 22:29:10,843 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:11,045 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:11,078 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:11,284 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:11,288 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:30,003 - src.main - INFO - Token verification request received
+2025-04-20 22:29:30,219 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:30,220 - src.main - INFO - Token verification request received
+2025-04-20 22:29:30,429 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:30,646 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:30,648 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:30,852 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:30,855 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:50,473 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:29:50,473 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:29:50,475 - src.main - INFO - Connecting to database
+2025-04-20 22:29:50,496 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:29:53,379 - src.main - INFO - Token verification request received
+2025-04-20 22:29:53,614 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:53,614 - src.main - INFO - Token verification request received
+2025-04-20 22:29:53,825 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:29:54,029 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:54,058 - src.main - INFO - Total leads: 199
+2025-04-20 22:29:54,060 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:29:54,263 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:29:54,264 - src.main - INFO - Total leads: 199
+2025-04-20 22:29:54,265 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:27,834 - src.main - INFO - Token verification request received
+2025-04-20 22:30:28,040 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:28,041 - src.main - INFO - Token verification request received
+2025-04-20 22:30:28,248 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:28,446 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:28,448 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:28,449 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:28,652 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:28,653 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:28,654 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:40,327 - src.main - INFO - Token verification request received
+2025-04-20 22:30:40,536 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:40,536 - src.main - INFO - Token verification request received
+2025-04-20 22:30:40,743 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:40,942 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:40,944 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:40,945 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:41,144 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:41,147 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:41,149 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:58,944 - src.main - INFO - Token verification request received
+2025-04-20 22:30:59,176 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:59,176 - src.main - INFO - Token verification request received
+2025-04-20 22:30:59,377 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:30:59,586 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:59,589 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:59,590 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:30:59,801 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:30:59,804 - src.main - INFO - Total leads: 199
+2025-04-20 22:30:59,804 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:31:02,453 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=100, limit=100
+2025-04-20 22:31:02,455 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:02,457 - src.main - INFO - Successfully retrieved 99 leads
+2025-04-20 22:31:07,662 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:31:07,666 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:07,669 - src.main - INFO - Successfully retrieved 55 leads
+2025-04-20 22:31:13,117 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:31:13,121 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:13,123 - src.main - INFO - Successfully retrieved 18 leads
+2025-04-20 22:31:15,550 - src.main - INFO - Fetching leads with filters: source=Source.WEBSITE, interest=Interest.MEDIUM, status=None, offset=100, limit=100
+2025-04-20 22:31:15,554 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:15,555 - src.main - INFO - Successfully retrieved 0 leads
+2025-04-20 22:31:27,922 - src.main - INFO - Token verification request received
+2025-04-20 22:31:28,123 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:31:28,123 - src.main - INFO - Token verification request received
+2025-04-20 22:31:28,323 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:31:28,523 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:31:28,526 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:28,528 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:31:28,736 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:31:28,738 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:28,739 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:31:32,583 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=25
+2025-04-20 22:31:32,585 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:32,586 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:31:34,401 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=25, limit=25
+2025-04-20 22:31:34,404 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:34,405 - src.main - INFO - Successfully retrieved 25 leads
+2025-04-20 22:31:36,914 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.MEDIUM, status=None, offset=0, limit=100
+2025-04-20 22:31:36,917 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:36,919 - src.main - INFO - Successfully retrieved 74 leads
+2025-04-20 22:31:41,786 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.MEDIUM, status=Status.QUALIFIED, offset=0, limit=100
+2025-04-20 22:31:41,789 - src.main - INFO - Total leads: 199
+2025-04-20 22:31:41,791 - src.main - INFO - Successfully retrieved 17 leads
+2025-04-20 22:32:19,083 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:32:19,083 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:32:19,084 - src.main - INFO - Connecting to database
+2025-04-20 22:32:19,105 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:32:21,515 - src.main - INFO - Token verification request received
+2025-04-20 22:32:21,761 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:32:21,761 - src.main - INFO - Token verification request received
+2025-04-20 22:32:21,986 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:32:22,212 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:32:22,475 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:34:21,031 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:34:21,031 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:34:21,033 - src.main - INFO - Connecting to database
+2025-04-20 22:34:21,053 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:34:23,544 - src.main - INFO - Token verification request received
+2025-04-20 22:34:23,767 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:34:23,767 - src.main - INFO - Token verification request received
+2025-04-20 22:34:23,968 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:34:24,169 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:34:24,201 - src.main - INFO - Total leads: 199
+2025-04-20 22:34:24,204 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:34:24,405 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:34:24,408 - src.main - INFO - Total leads: 199
+2025-04-20 22:34:24,409 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:34:29,902 - src.main - INFO - Fetching leads with filters: source=None, interest=Interest.HIGH, status=None, offset=0, limit=100
+2025-04-20 22:34:29,905 - src.main - INFO - Total leads: 59
+2025-04-20 22:34:29,906 - src.main - INFO - Successfully retrieved 59 leads
+2025-04-20 22:35:04,892 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:35:04,892 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:35:04,894 - src.main - INFO - Connecting to database
+2025-04-20 22:35:04,915 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:35:05,901 - src.main - INFO - Token verification request received
+2025-04-20 22:35:06,155 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:35:06,156 - src.main - INFO - Token verification request received
+2025-04-20 22:35:06,384 - src.main - INFO - Token successfully verified for user: admin@example.com
+2025-04-20 22:35:06,624 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:35:06,655 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:35:06,659 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:35:06,896 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:35:06,898 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:35:06,899 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:35:13,145 - src.main - INFO - Fetching leads with filters: source=Source.EVENT, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:35:13,150 - src.main - INFO - Total leads matching filters: 37
+2025-04-20 22:35:13,152 - src.main - INFO - Successfully retrieved 37 leads
+2025-04-20 22:35:53,156 - src.main - WARNING - Using default SECRET_KEY. This is insecure for production environments.
+2025-04-20 22:35:53,156 - src.main - INFO - Initializing application with ACCESS_TOKEN_EXPIRE_MINUTES=30
+2025-04-20 22:35:53,157 - src.main - INFO - Connecting to database
+2025-04-20 22:35:53,175 - src.main - INFO - FastAPI application initialized
+2025-04-20 22:39:32,833 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:39:32,886 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:39:32,895 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:39:33,115 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:39:33,118 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:39:33,119 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:39:37,835 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:39:37,837 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:39:37,839 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:39:38,043 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-20 22:39:38,046 - src.main - INFO - Total leads matching filters: 199
+2025-04-20 22:39:38,048 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-20 22:39:57,246 - src.main - INFO - Token verification request received
+2025-04-20 22:39:57,246 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 22:39:57,246 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-20 22:39:57,256 - src.main - INFO - Token verification request received
+2025-04-20 22:39:57,257 - src.main - WARNING - JWT verification failed: Signature has expired.
+2025-04-20 22:39:57,257 - src.main - WARNING - Token verification failed: invalid or expired token
+2025-04-21 21:42:04,596 - src.main - INFO - Login attempt for user: admin@example.com
+2025-04-21 21:42:04,596 - src.main - INFO - Authentication attempt for user: admin@example.com
+2025-04-21 21:42:04,994 - src.main - INFO - Authentication successful for admin@example.com
+2025-04-21 21:42:04,995 - src.main - INFO - Login successful for user: admin@example.com
+2025-04-21 21:42:05,224 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-21 21:42:05,229 - src.main - INFO - Total leads matching filters: 199
+2025-04-21 21:42:05,230 - src.main - INFO - Successfully retrieved 100 leads
+2025-04-21 21:42:05,435 - src.main - INFO - Fetching leads with filters: source=None, interest=None, status=None, offset=0, limit=100
+2025-04-21 21:42:05,438 - src.main - INFO - Total leads matching filters: 199
+2025-04-21 21:42:05,440 - src.main - INFO - Successfully retrieved 100 leads
